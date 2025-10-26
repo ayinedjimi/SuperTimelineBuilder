@@ -125,6 +125,8 @@ timestamp,source,type,user,host,short,full
 - --
 
 
+# 🚀 Si export depuis SuperTimelineBuilder
+
 ## Compilation
 
 ### Prérequis
@@ -150,8 +152,6 @@ cl.exe /W4 /EHsc /O2 /std:c++17 /D_UNICODE /DUNICODE ^
 
 - --
 
-
-# 🚀 Si export depuis SuperTimelineBuilder
 
 ## 🚀 Utilisation
 
@@ -198,6 +198,12 @@ Importer CSV dans:
 - --
 
 
+# 🚀 Conversion timeline
+
+# 🚀 Analyse avec psort
+
+# 🚀 Import dans Timesketch (Google)
+
 ## 💡 Exemples de Scénarios Forensics
 
 ### Cas 1 : Investigation Malware Execution
@@ -226,12 +232,6 @@ Importer CSV dans:
 
 - --
 
-
-# 🚀 Conversion timeline
-
-# 🚀 Analyse avec psort
-
-# 🚀 Import dans Timesketch (Google)
 
 ## Format Plaso CSV Détaillé
 
@@ -357,6 +357,14 @@ Pour bugs ou questions :
 
 **Note** : Outil destiné à professionnels forensics et incident response. Connaissances timeline analysis requises.
 
+
+- --
+
+<div align="center">
+
+**⭐ Si ce projet vous plaît, n'oubliez pas de lui donner une étoile ! ⭐**
+
+</div>
 
 - --
 
