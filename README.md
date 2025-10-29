@@ -92,6 +92,8 @@ timestamp,source,type,user,host,short,full
 - --
 
 
+# 🚀 Si export depuis SuperTimelineBuilder
+
 ## Architecture Technique
 
 ### Technologies
@@ -125,8 +127,6 @@ timestamp,source,type,user,host,short,full
 - --
 
 
-# 🚀 Si export depuis SuperTimelineBuilder
-
 ## Compilation
 
 ### Prérequis
@@ -152,6 +152,12 @@ cl.exe /W4 /EHsc /O2 /std:c++17 /D_UNICODE /DUNICODE ^
 
 - --
 
+
+# 🚀 Conversion timeline
+
+# 🚀 Analyse avec psort
+
+# 🚀 Import dans Timesketch (Google)
 
 ## 🚀 Utilisation
 
@@ -197,12 +203,6 @@ Importer CSV dans:
 
 - --
 
-
-# 🚀 Conversion timeline
-
-# 🚀 Analyse avec psort
-
-# 🚀 Import dans Timesketch (Google)
 
 ## 💡 Exemples de Scénarios Forensics
 
@@ -357,6 +357,14 @@ Pour bugs ou questions :
 
 **Note** : Outil destiné à professionnels forensics et incident response. Connaissances timeline analysis requises.
 
+
+- --
+
+<div align="center">
+
+**⭐ Si ce projet vous plaît, n'oubliez pas de lui donner une étoile ! ⭐**
+
+</div>
 
 - --
 
